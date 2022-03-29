@@ -1,0 +1,16 @@
+.mainnav{
+    text-align: center;
+    margin: 40px auto;
+  }
+  .mainnav a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 10px;
+    color: #636060;
+    font-size: 18px;
+  }
+  .mainnav .active{
+    border-bottom: 2px solid #00ce89;
+    padding-bottom: 4px;
+  
+  }

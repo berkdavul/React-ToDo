@@ -1,0 +1,14 @@
+.newexpense{
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+}
+.expenses {
+  padding: 1rem;
+  background-color: #fff;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
